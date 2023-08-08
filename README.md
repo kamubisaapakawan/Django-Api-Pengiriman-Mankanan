@@ -9,3 +9,9 @@ Belajar membuat aplikasi Django API Pengirimanan Makanan menggunakan Django vers
 ## Module 1 - Starter
 
     Pass
+
+## Module 2 - Setting Up
+
+    Pass
+
+## Module 3 - First Project
