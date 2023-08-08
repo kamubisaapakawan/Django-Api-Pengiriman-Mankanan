@@ -5,3 +5,7 @@ Belajar membuat aplikasi Django API Pengirimanan Makanan menggunakan Django vers
 
         modified:   .gitignore
         modified:   README.md
+
+## Module 1 - Starter
+
+    Pass
